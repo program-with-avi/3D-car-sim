@@ -17,7 +17,7 @@ After you have completed the [installation of Python](https://www.python.org/dow
 ### Using the game  
 - Use keys ```W, S, D, A ``` to control the movement of the car.    
 ## Credits📃  
-This game's program was developed by [@progarm-with-avi](https://github.com/program-with-avi/)  
+This game's program was developed by [@progarm-with-avi](https://github.com/program-with-avi/) (omgavig@gmail.com)   
 Game concept: @tanushpillai123, [@advedyt](https://github.com/advedyt), [@progarm-with-avi](https://github.com/program-with-avi/)  
 ## Notes📓  
 > [!NOTE]
